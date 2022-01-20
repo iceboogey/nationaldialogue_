@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-
+gem 'kramdown-parser-gfm'
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-admin'
