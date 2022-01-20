@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Help Center"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+title: "Nat Dialogue Nominees"
+email:
+description: "Information you need to complete your nomination info"
+baseurl: "/natdiag"
+url: "https://mulu-inc.github.io/natdiag/"
+#twitter_username: "gustavoquinalha"
+#github_username:  "gustavoquinalha"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
