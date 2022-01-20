@@ -9,8 +9,8 @@
 title: "Potential National Dialogue Nominees"
 email:
 description: "Information you need to complete your nomination info"
-baseurl: "/natdiag"
-url: "https://mulu-inc.github.io/natdiag/"
+baseurl: "/nationaldialogue_"
+url: "https://github.com/iceboogey/nationaldialogue_/"
 #twitter_username: "gustavoquinalha"
 #github_username:  "gustavoquinalha"
 color_theme:  "#00cc00"
